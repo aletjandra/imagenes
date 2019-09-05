@@ -6,3 +6,5 @@ En este repositorio subiremos imagenes bonitas y las acomodaremos
 
 - MCR
 - Scars on broadway
+- Badabum
+- Peladitas del trome
